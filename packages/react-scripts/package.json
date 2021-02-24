@@ -1,10 +1,10 @@
 {
   "name": "react-scripts",
   "version": "4.0.3",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Configuration and scripts for Create React App. Included the mla_modules in the resolve.module in the webpack config.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/mkamalkayani/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
