@@ -1,6 +1,6 @@
 {
   "name": "mla-react-scripts",
-  "version": "4.0.5",
+  "version": "4.0.6",
   "description": "Configuration and scripts for Create React App. Included the mla_modules in the resolve.module in the webpack config.",
   "repository": {
     "type": "git",
